@@ -4,5 +4,5 @@ Caesar is a cryptographic algorithm that moves the alphabet in a fixed position 
 
 #How to use
 
-1. Download the code.\
+1. Download the code.
 2. Using encrypt and decrypt function, you can encrypt or decrypt plain text.
