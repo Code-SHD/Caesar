@@ -1,6 +1,6 @@
 # Introduce
 
-Caesar is a cryptographic algorithm that moves the alphabet in a fixed position by a certain number.\
+Caesar is a cryptographic algorithm that moves the alphabet in a fixed position by a certain number.
 
 # How to use
 
